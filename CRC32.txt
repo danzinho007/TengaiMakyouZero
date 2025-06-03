@@ -1,0 +1,5 @@
+Tengai Makyou Zero CRC32:
+
+Original JAP = 1E327BD9
+Tradução ENG = E589FB4
+Tradução PT-BR = 1AA57C8E

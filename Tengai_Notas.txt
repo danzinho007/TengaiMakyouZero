@@ -1,0 +1,66 @@
+TengaiMakyouZero
+
+Dicas:
+PLGS = Personalized Live Game System ( Sistema de Jogo ao Vivo Personalizado )
+Esquerda na fonta, subir, sobe escadadas, cruza 3 pontos e entra na arvore
+
+Personagens:
+Agni = DeusaDosCeus
+Akina = Garota da CasaDeChaDosSolteiors
+Bakuzan = homem perigoso
+Binta = 
+Byakuen = Avo de Higan, conhecido como EspadachimDaLuz
+EremitaDaVisao = 
+EremitaDoJorro = Localiza-se na GrutaDoEremita
+EremitaDoVento = 
+EremitaNu = 
+Genkotsu = 
+Gruta_Beldades = 
+Higan = HeroiDoFogo
+Hisui = Fada_ClaDoFogo
+Jipang = Tem 6 bestas ( 1 para cada nacao )
+Ninigi = GovernanteDoInferno
+Shiranui = Espadachim
+Subaru = Fada_ClaDoFogo
+UrsoDeFogo = Besta divina que protege a nacao urso de fogo
+Zettai Reido = Espadachim GeneralInvernal
+
+Locais:
+CasaDeChaDosSolteiros = 
+CasaDOTempo = 
+Castelo_PresasDeGelo = 
+FlorestaDaVida = 
+Jipang = Reino
+MontanhaDistante = Onde fica os tumulos
+Nacao_Pavao = Vizinha a MontanhaDeGelo
+PalacioDosSonhos = Yumedono
+PontoDeFogo = aldeia
+Takamagahra = 
+UrsoDeFogo = santuario ( Objetivo )
+Vila_MontanhaDeGelo = Nordeste
+Vila_SombrasDeFogo = 
+Vila_Sorte = Norte -
+Vila_TemploDaChuva = Noroeste = 
+
+Clas:
+Fogo = 
+
+---Monstros:
+-AcougueiroCareca
+Fraqueza = Agua, Fogo e Vento 
+
+Ceifador = HP 85
+CeifadorDeLebres = HP ??
+Chiador = HP 47+
+FilhoteVermelho = HP 50
+Lenhastro = HP 32
+-Morcego = 
+Fraqueza = Raio
+-PanteraGlacial = HP ??
+Tronquar = HP 32
+Trovao = HP 80+
+
+---Bosses:
+-EremitaDoCarvao = Habilidade_LaminaArdente
+-ZettaiReido = 
+Fogo = fraqueza ( 61 )
